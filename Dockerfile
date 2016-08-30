@@ -1,4 +1,4 @@
-#Using Jessie Debian image
+#Using Debian:Jessie
 FROM python:2.7.9
 MAINTAINER Wayner Barrios <waybarrios@gmail.com>
 
